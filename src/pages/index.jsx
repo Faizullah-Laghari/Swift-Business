@@ -15,20 +15,18 @@
 // };
 
 // export default Home;
-
 import React from "react";
 import SEO from "../common/seo";
-import HomeTwo from "../components/homes/home-2";
+import HomeFive from "../components/homes/home-5";
 import Wrapper from "../layout/wrapper";
 
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"Swift Business"} />
-      <HomeTwo />
+      <SEO pageTitle={"Softec - Data analytics"} />
+      <HomeFive />
     </Wrapper>
   );
 };
 
 export default index;
-
