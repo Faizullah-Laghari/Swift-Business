@@ -1,8 +1,8 @@
 const answer_question_data = [
   {
     id: 1,
-    question: "Why should I choose Softec?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
+    question: "Why should I choose Swift Business",
+    answer: <>The Swift Business is built right into your account dashboard, and is accessible
           immediately after signing up. </> ,
     accordion_id: "headingOne",
     collapsed: "collapsed",
@@ -12,9 +12,8 @@ const answer_question_data = [
   },
   {
     id: 2,
-    question: "Do I need to change banks??",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
-          immediately after signing up. </> ,
+    question: "What is Swift Business and how does it benefit me?",
+    answer: <>Swift Business is a powerful feature integrated into your Softec account, providing a suite of tools and functionalities to streamline your business operations. It offers efficiency, convenience, and customization to enhance your overall experience.</> ,
     accordion_id: "headingTwo",
     collapsed: "",
     data_bs_target: "#collapseTwo",
@@ -26,9 +25,8 @@ const answer_question_data = [
   },
   {
     id: 3,
-    question: "How can I order equipment?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
-    immediately after signing up. </> ,
+    question: "How do I get started with Swift Business?",
+    answer: <>Getting started with Swift Business is easy! Upon signing up for Softec, Swift Business is readily available in your account dashboard. Simply navigate to the designated section to explore its features and functionalities.</> ,
     accordion_id: "headingThree",
     collapsed: "collapsed",
     data_bs_target: "#collapseThree",
@@ -38,9 +36,8 @@ const answer_question_data = [
   },
   {
     id: 4,
-    question: "Do you offer volume discounts?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
-          immediately after signing up. </> ,
+    question: "What specific tools does Swift Business include?",
+    answer: <>Swift Business is equipped with a diverse set of tools designed to address various aspects of business management. From project tracking to communication features, Swift Business empowers you with the resources you need for success.</> ,
     accordion_id: "headingFour",
     collapsed: "collapsed",
     data_bs_target: "#collapseFour",
@@ -50,9 +47,8 @@ const answer_question_data = [
   },
   {
     id: 5,
-    question: "How does signing up work?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
-    immediately after signing up. </> ,
+    question: "Can I integrate Swift Business with other applications?",
+    answer: <>Yes, Swift Business is designed to be flexible and integrative. You can seamlessly connect it with other applications and tools to create a cohesive and efficient workflow that suits your business requirements.</> ,
     accordion_id: "headingFive",
     collapsed: "collapsed",
     data_bs_target: "#collapseFive",

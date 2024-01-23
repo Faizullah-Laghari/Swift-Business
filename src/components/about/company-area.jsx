@@ -3,7 +3,7 @@ import React,{useState} from 'react';
 
 const company_content ={
     sub_title:  "ABOUT THE COMPANY",
-    title: <>Softuch is Made <br />For the Creator.</>,
+    title: <>Swift Business is Made <br />For the Creator.</>,
     info_1: <>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rutrum arcu sollicitudin viverra sit elit leo in. Vitae eu tellus mattis quis. Eu, tempus donec nam mauris egestas. Id aliquet ultricies ligula tellus arcu dolor. Massa arcu pulvinar in mattis</>,
     info_2: <>Feugiat purus congue risus, blandit a sed. In aenean quam aenean purus dictum pellentesque consequat.!</>,
     info_3: <>Our clean and simple APIs and transparent SaaS model will give you complete peace of mind.</>,
