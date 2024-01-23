@@ -27,8 +27,8 @@ const HeaderTwo = () => {
                      <div className="row g-0 align-items-center">
                         <div className="col-xl-2 col-lg-2 col-md-6 col-6">
                            <div className="tp-header-2__logo">
-                              <Link className="white-logo" href="/"><Image src={white_logo} alt="theme-pure" /></Link>
-                              <Link className="black-logo" href="/"><Image src={black_logo} alt="theme-pure" /></Link>
+                              <Link className="white-logo" href="/"><Image src={white_logo} alt="Swift Business" /></Link>
+                              <Link className="black-logo" href="/"><Image src={black_logo} alt="Swift Business" /></Link>
                            </div>
                         </div>
                         <div className="col-xl-7 col-lg-7 d-none d-lg-block">

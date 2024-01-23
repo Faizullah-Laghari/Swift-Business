@@ -13,39 +13,35 @@ import shadow_img from "../../../../public/assets/img/testimonial/BODY.png";
 
 
 const slider_data  = [
-    {
-        id: 1,
-        img: slider_img_1,
-        name: "Lana Rey",
-        job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
-
-    },
-    {
-        id: 2,
-        img: slider_img_2,
-        name: "J. McGhee",
-        job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
-
-    },
-    {
-        id: 3,
-        img: slider_img_3,
-        name: "Michael H.",
-        job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
-
-    },
-    {
-        id: 4,
-        img: slider_img_4,
-        name: "Lana Rey",
-        job: "Founder & Leader",
-        info: <>"Is it possible to Love your credit card processor? with Softec, yes!"</>,
-
-    }, 
-]
+        {
+          id: 1,
+          img: slider_img_1,
+          name: "Lana Rey",
+          job: "Founder & Leader",
+          info: <> "Is it possible to Love your credit card processor? with Swift, yes!" </>
+        },
+        {
+          id: 2,
+          img: slider_img_2,
+          name: "John Doe",
+          job: "Small Business Owner",
+          info: <> "Swift has revolutionized the way I handle transactions. It's user-friendly and efficient, making my business operations smoother than ever." </>
+        },
+        {
+          id: 3,
+          img: slider_img_3,
+          name: "Emily Smith",
+          job: "Entrepreneur",
+          info: <> "As an entrepreneur, I value simplicity and reliability. Swift not only meets but exceeds my expectations, making payment processing a breeze." </>
+        },
+        {
+          id: 4,
+          img: slider_img_4,
+          name: "David Miller",
+          job: "E-commerce Enthusiast",
+          info: <> "Swift's innovative features have significantly improved my online store's payment process. It's a game-changer for anyone in the e-commerce business!" </>
+        },
+      ];      
 
 // slider setting 
 const setting = {	

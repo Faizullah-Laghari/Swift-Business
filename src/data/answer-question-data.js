@@ -13,7 +13,7 @@ const answer_question_data = [
   {
     id: 2,
     question: "What is Swift Business and how does it benefit me?",
-    answer: <>Swift Business is a powerful feature integrated into your Softec account, providing a suite of tools and functionalities to streamline your business operations. It offers efficiency, convenience, and customization to enhance your overall experience.</> ,
+    answer: <>Swift Business is a powerful feature integrated into your Swift account, providing a suite of tools and functionalities to streamline your business operations. It offers efficiency, convenience, and customization to enhance your overall experience.</> ,
     accordion_id: "headingTwo",
     collapsed: "",
     data_bs_target: "#collapseTwo",
