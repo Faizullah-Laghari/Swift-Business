@@ -16,12 +16,12 @@ const HeaderSeven = () => {
                 <div className="header-signin-area header-bottom__transparent header-signin-ptb z-index-5">
                     <div className="container-fluid">
                         <div className="row align-items-center">
-                        <div className="col-6">
+                        <div className="col-6 col-lg-2 col-md-4">
                             <div className="header-signin-logo">
                                 <Link href="/"><Image src={logo_white} alt="" /></Link> 
                             </div>
                         </div>
-                        <div className="col-6">
+                        <div className="col-6 col-lg-10 col-md-8">
                             <div className="header-signin-bar text-end tp-menu-bar">
                                 <button onClick={() => setSidebarOpen(true)}>
                                     <i>
