@@ -15,6 +15,8 @@
 // };
 
 // export default Home;
+
+
 import React from "react";
 import SEO from "../common/seo";
 import HomeFive from "../components/homes/home-5";
